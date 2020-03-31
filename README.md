@@ -1,6 +1,10 @@
 # WhatTheHack?
 This is the main repository of the project WhatTheHack.
 
+This project was done within the scope of the school lesson ITP. 
+
+Since we decided that the source code shall be open source, it was ported from GitLab to GitHub to be accessible for the open world.
+
 ## Setup
 To run the application, first clone the repository to your local machine:
 
